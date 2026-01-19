@@ -1,0 +1,8 @@
+{
+  "name": "PoultryDirect",
+  "description": "A direct-to-consumer poultry marketplace and resource hub empowering local farmers with AI-driven insights and community networking.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
